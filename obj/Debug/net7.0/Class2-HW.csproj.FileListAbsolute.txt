@@ -1,0 +1,15 @@
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/Class2-HW.csproj.AssemblyReference.cache
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/Class2-HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/Class2-HW.AssemblyInfoInputs.cache
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/Class2-HW.AssemblyInfo.cs
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/Class2-HW.csproj.CoreCompileInputs.cache
+/Users/geethapriyakumar/Downloads/Class2-HW/bin/Debug/net7.0/Class2-HW
+/Users/geethapriyakumar/Downloads/Class2-HW/bin/Debug/net7.0/Class2-HW.deps.json
+/Users/geethapriyakumar/Downloads/Class2-HW/bin/Debug/net7.0/Class2-HW.runtimeconfig.json
+/Users/geethapriyakumar/Downloads/Class2-HW/bin/Debug/net7.0/Class2-HW.dll
+/Users/geethapriyakumar/Downloads/Class2-HW/bin/Debug/net7.0/Class2-HW.pdb
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/Class2-HW.dll
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/refint/Class2-HW.dll
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/Class2-HW.pdb
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/Class2-HW.genruntimeconfig.cache
+/Users/geethapriyakumar/Downloads/Class2-HW/obj/Debug/net7.0/ref/Class2-HW.dll
