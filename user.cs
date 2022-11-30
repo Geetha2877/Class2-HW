@@ -2,9 +2,7 @@ namespace Class2Hw
 {
     class User: Contact
     {
-        private string Name{get;set;}
-        private int Age{get;set;}
-        private int MobileNo{get;set;}
+       
         public User(){
 
             Console.WriteLine("Enter the Name");
@@ -12,7 +10,7 @@ namespace Class2Hw
             Console.WriteLine("Enter the Age");
             Age=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the Mobile No.");
-            MobileNo=Convert.ToInt32(Console.ReadLine());
+            MobileNo=long.Parse(Console.ReadLine());
 
         }
         public override void View(){
@@ -27,7 +25,7 @@ namespace Class2Hw
             Console.WriteLine("Enter the Age");
             Age=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the Mobile No.");
-            MobileNo=Convert.ToInt32(Console.ReadLine());
+            MobileNo=long.Parse(Console.ReadLine());
              Console.WriteLine("Contact Updated Sucessfully");
         }
     }

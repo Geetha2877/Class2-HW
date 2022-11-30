@@ -8,7 +8,7 @@
         public int Age {
         set;get;
         }
-        public int MobileNo {
+        public long MobileNo {
         set;get;
         }
 

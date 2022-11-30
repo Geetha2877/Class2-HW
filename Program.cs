@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
         User me = new User();
-       
+       try{
        while(true){
 
         Console.WriteLine("Choose 1 to View data or 2 to Update data and 0 to exit");
@@ -30,7 +30,11 @@
         continue;
         }
        }
-  
+       }
+   catch (Exception e)
+        {
+            Console.WriteLine("{0} Exception caught.", e);
+        }
       
         }
     }
