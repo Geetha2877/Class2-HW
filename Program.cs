@@ -6,30 +6,30 @@
         {
         User me = new User();
        
+       while(true){
 
         Console.WriteLine("Choose 1 to View data or 2 to Update data and 0 to exit");
         int option=Convert.ToInt32(Console.ReadLine());
         if(option==1){
                  me.View();
-               
-                Console.WriteLine("Choose 1 to View data or 2 to Update data and 0 to exit");
-                option=Convert.ToInt32(Console.ReadLine());
-                
+        
+                continue;
         }
         else if(option==2){
                 me.Update();  
                 me.View();
-                Console.WriteLine("Choose 1 to View data or 2 to Update data and 0 to exit");
-                option=Convert.ToInt32(Console.ReadLine());
-                   
+               
+                continue;
         }
         else if(option==0){
             System.Environment.Exit(0);  
         }
         else {
-        Console.WriteLine("Choose 1 to View data or 2 to Update data and 0 to exit");
+       
+        Console.WriteLine("Choose correct option");
+        continue;
         }
-        
+       }
   
       
         }

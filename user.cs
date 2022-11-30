@@ -23,11 +23,11 @@ namespace Class2Hw
         }
         public override void Update(){
             Console.WriteLine("Enter the Name");
-            string Name=Console.ReadLine();
+            Name=Console.ReadLine();
             Console.WriteLine("Enter the Age");
-            int Age=Convert.ToInt32(Console.ReadLine());
+            Age=Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter the Mobile No.");
-            int MobileNo=Convert.ToInt32(Console.ReadLine());
+            MobileNo=Convert.ToInt32(Console.ReadLine());
              Console.WriteLine("Contact Updated Sucessfully");
         }
     }
